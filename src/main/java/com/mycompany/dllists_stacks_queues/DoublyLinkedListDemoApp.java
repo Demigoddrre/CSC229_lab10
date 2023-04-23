@@ -1,6 +1,8 @@
 
 package com.mycompany.dllists_stacks_queues;
 
+import java.util.Arrays;
+
 /**
  *
  * @author MoaathAlrajab
