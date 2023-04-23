@@ -20,7 +20,7 @@ class Node {
 }
 
 public class DoublyLinkedList {
-   private Node head;
+   Node head;
    private Node tail;
       int count;
    public DoublyLinkedList() {
